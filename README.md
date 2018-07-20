@@ -1,2 +1,8 @@
 # Clustering-Fund-programs
-code only for demo purposes
+
+used the following algorithms.
+- Kmeans
+- Hierarchical
+- DBScan
+-Dirichilet Gaussian mixture
+
